@@ -1,0 +1,34 @@
+psql --username=freecodecamp --dbname=postgres
+chmod +x insert_data.sh
+chmod +x queries.sh
+cp games.csv games_test.csv
+./insert_data
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh4
+__vsc_prompt_cmd_original
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
